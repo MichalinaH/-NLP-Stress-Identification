@@ -7,17 +7,9 @@ Fortunately, this dataset is labelled as 0 and 1, where 0 indicates no stress an
 
 To properly use this document, you must install the following libraries:
 ```shell
-pip install pandas
-pip install seaborn
-pip install spacy
-pip install wordcloud
-pip install tqdm
-pip install scikit-learn
-pip install keras
-pip install tensorflow
-pip install matplotlib
+pip install pandas seaborn spacy wordcloud tqdm scikit-learn keras tensorflow matplotlib transformers
 ```
-## Description of the Chosen Model
+## Description of the Chosen Models
 
 It is simple convolutional neural network (CNN) with following layers:
 1. Embedding Layer
