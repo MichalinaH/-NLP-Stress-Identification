@@ -7,7 +7,7 @@ Fortunately, this dataset is labelled as 0 and 1, where 0 indicates no stress an
 
 To properly use this document, you must install the following libraries:
 ```shell
-pip install pandas seaborn spacy wordcloud tqdm scikit-learn keras tensorflow matplotlib transformers
+pip install pandas seaborn spacy wordcloud tqdm scikit-learn keras tensorflow matplotlib transformers torch torchvision torchaudio
 ```
 ## Description of the Chosen Models
 
