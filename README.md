@@ -36,6 +36,7 @@ pip install -r requirements.txt
 <br>
 
 * [Simple convolutional neural network (CNN) with following layers](../-NLP-Stress-Identification/2_StressIdentification_CNN.ipynb):
+  
     The model architecture consists of:
     **Embedding Layer**: Incorporates an Embedding layer initialized with a 50-dimensional representation, efficiently converting words into fixed-size dense vectors to capture word meanings and context in the input text data.
 
@@ -50,6 +51,7 @@ pip install -r requirements.txt
 <br>
 
 * [Pre-Trained Word Embeddings with word2vec model](../-NLP-Stress-Identification/3_StressIdentification_pre-train.ipynb):
+  
     This model incorporates pre-trained Word2Vec embeddings obtained from the Google News dataset, enabling the representation of words in a continuous vector space of 300 dimensions. The Word2Vec embeddings capture semantic relationships between words based on their contextual usage within a vast corpus.
 
     **Model Architecture**:
@@ -65,6 +67,7 @@ pip install -r requirements.txt
 <br>
 
 * [Language Model Fine-Tuning with DistilBERT base model](../-NLP-Stress-Identification/4_StressIdentification_fine_tune.ipynb):
+  
     **Pre-trained DistilBERT**: Utilizes the pre-trained DistilBERT model, which serves as the backbone for this sentiment analysis task. DistilBERT is fine-tuned for sequence classification, specifically for sentiment analysis.
     <br>
 
