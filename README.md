@@ -53,6 +53,7 @@ pip install -r requirements.txt
     This model incorporates pre-trained Word2Vec embeddings obtained from the Google News dataset, enabling the representation of words in a continuous vector space of 300 dimensions. The Word2Vec embeddings capture semantic relationships between words based on their contextual usage within a vast corpus.
 
     **Model Architecture**:
+  
     **Embedding Layer**: Utilizes the pre-trained Word2Vec embeddings as fixed weights, ensuring that the model benefits from the rich semantic information present in the embedding vectors. The layer transforms input text sequences into embedded representations.
 
     **LSTM Layer**: Employs a Long Short-Term Memory (LSTM) neural network with 128 units. LSTMs are adept at capturing long-range dependencies within sequences, enabling the model to comprehend the contextual nuances present in the text.
