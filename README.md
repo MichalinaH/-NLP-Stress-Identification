@@ -93,6 +93,6 @@ pip install -r requirements.txt
 2. Chose notebook you would like to test 
 3. Run the Entire File by Clicking the `Run All` Button
 4. In the Last Cell, Locate the `sentence` Variable. Replace the Placeholder Sentence with Your Own Text that You Want to Classify
-   ```shell
+ ```shell
 sentence = "I had a peaceful evening reading my favorite book."
 ```
