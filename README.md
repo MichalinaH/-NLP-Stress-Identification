@@ -51,7 +51,6 @@ pip install -r requirements.txt
 
 * [Pre-Trained Word Embeddings with word2vec model](../-NLP-Stress-Identification/3_StressIdentification_pre-train.ipynb):
     This model incorporates pre-trained Word2Vec embeddings obtained from the Google News dataset, enabling the representation of words in a continuous vector space of 300 dimensions. The Word2Vec embeddings capture semantic relationships between words based on their contextual usage within a vast corpus.
-<br>
 
     **Model Architecture**:
     **Embedding Layer**: Utilizes the pre-trained Word2Vec embeddings as fixed weights, ensuring that the model benefits from the rich semantic information present in the embedding vectors. The layer transforms input text sequences into embedded representations.
