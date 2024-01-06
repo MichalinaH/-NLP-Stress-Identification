@@ -8,7 +8,7 @@ Repository contains 8 files:
 5. 4_StressIdentification_fine_tune.ipynb <--- notebook with data cleaning ,[DistilBERT base model](https://huggingface.co/distilbert-base-uncased) and its usage 
 6. README.md 
 7. Stress.csv <--- dataset
-8. requirements.txt <--- file with everything You need to have to run this notebooks
+8. requirements.txt <--- file with everything You need to have to run those notebooks
 
 **Dataset:** https://www.kaggle.com/datasets/kreeshrajani/human-stress-prediction
 
