@@ -5,7 +5,7 @@ Repository contains 8 files:
 2. 1_StressIdentification_rekurencyjna.ipynb <--- notebook with data cleaning and class distribution, LSTM model and its usage 
 3. 2_StressIdentification_CNN.ipynb <--- notebook with data cleaning and class distribution, simple CNN model and its usage 
 4. 3_StressIdentification_pre-train.ipynb <--- notebook with data cleaning and class distribution, pre-train word2vec model and its usage 
-5. 4_StressIdentification_fine_tune.ipynb <--- notebook with data cleaning ,[DistilBERT base model](https://huggingface.co/distilbert-base-uncased) and its usage 
+5. 4_StressIdentification_fine_tune.ipynb <--- notebook with data cleaning,[DistilBERT base model](https://huggingface.co/distilbert-base-uncased) and its usage 
 6. README.md 
 7. Stress.csv <--- dataset
 8. requirements.txt <--- file with everything You need to have to run those notebooks
