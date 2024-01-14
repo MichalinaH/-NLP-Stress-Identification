@@ -1,3 +1,6 @@
+#environment
 StressEnv
+
+#folders
 roberta-base_sentiment_analysis
 distilbert-base-uncased_sentiment_analysis
